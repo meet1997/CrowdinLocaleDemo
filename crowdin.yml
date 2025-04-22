@@ -4,3 +4,5 @@ preserve_hierarchy: 1
 files:
   - source: /CrowdinLocalizationDemo/en.lproj/*.strings
     translation: /CrowdinLocalizationDemo/%osx_code%/%original_file_name%
+bundles:
+  - 2
