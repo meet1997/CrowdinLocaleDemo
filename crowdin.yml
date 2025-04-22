@@ -1,0 +1,8 @@
+---
+
+base_path: .
+base_url: https://api.crowdin.com
+preserve_hierarchy: 1
+files:
+  - source: /CrowdinLocaleDemo/en.lproj/*.strings
+    translation: /CrowdinLocaleDemo/%osx_code%/%original_file_name%

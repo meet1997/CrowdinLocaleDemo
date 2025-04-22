@@ -1,0 +1,26 @@
+/* 
+  Localizable.strings
+  CrowdinLocalizationDemo
+
+  Created by Meet Shah on 22/04/25.
+  
+*/
+"globals.and.title" = "and";
+"globals.back.title" = "Back";
+"globals.cancel.title" = "Cancel";
+"globals.close.title" = "Close";
+"globals.connecting.title" = "Connecting";
+"globals.continue.title" = "Continue";
+"globals.discard.title" = "Discard";
+"globals.done.title" = "Done";
+"globals.edit.title" = "Edit";
+"globals.empty.title" = "-";
+"globals.error.title" = "Error";
+"globals.errorCode.title" = "Error=%d";
+"globals.getHelp.title" = "Get Help";
+"globals.hide.title" = "Hide";
+"globals.later.title" = "Later";
+"globals.loading.title" = "Loading";
+"globals.login.title" = "Login";
+"globals.moreInfo.title" = "More Info";
+"globals.needHelp.title" = "Need help?";
